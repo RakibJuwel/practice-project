@@ -1,0 +1,39 @@
+section{
+  display: flex;
+}
+img{
+    width: 100%;
+    background-color: rgb(6, 26, 46);
+    border-radius: 20px;
+}
+body{
+    font-family: 'Oswald', sans-serif;
+    background-color: rgba(63, 17, 32, 0.055);
+  
+}
+h1{
+    color: cadetblue;
+}
+h3{
+    color: rgb(26, 34, 26);
+}
+.one{
+    color: darkolivegreen;
+}
+p{
+    text-align: justify;
+    color: lightsalmon;
+}
+div{
+    padding: 30px;
+}
+.link-button{
+    text-decoration: none;
+   background: rgb(16, 73, 67);
+    color: rgb(6, 26, 46);
+    border-radius: 5px;
+    padding: 5px 5px;
+}
+.bg{
+    background-image: url(images/bg.jpg);
+}
