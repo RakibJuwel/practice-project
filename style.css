@@ -12,13 +12,13 @@ body{
   
 }
 h1{
-    color: cadetblue;
+    color: rgb(18, 218, 224);
 }
 h3{
     color: rgb(26, 34, 26);
 }
 .one{
-    color: darkolivegreen;
+    color: rgb(171, 236, 67);
 }
 p{
     text-align: justify;
@@ -30,10 +30,32 @@ div{
 .link-button{
     text-decoration: none;
    background: rgb(16, 73, 67);
-    color: rgb(6, 26, 46);
+    color: rgb(222, 225, 228);
     border-radius: 5px;
     padding: 5px 5px;
+    
 }
 .bg{
+    background-image: url(images/bg1.jpg);
+}
+.two{
+    width: 150%;
+   background-color: wheat;
+  margin-top: 50px;
+}
+.bgg{
     background-image: url(images/bg.jpg);
+}
+.margin{
+    margin-left: 5%;
+}
+.link-one{
+    text-decoration: none;
+    background: rgb(16, 73, 67);
+     color: rgb(222, 225, 228);
+     border-radius: 5px;
+     padding: 5px 5px;
+ }
+.three{
+    color: rgb(65, 225, 198);
 }
